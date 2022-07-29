@@ -66,7 +66,7 @@ class game_host {
   AudioPlayer se_reflection;
 
   // コンストラクタ
-  game_host(TextBookForce gameinfo, float _w01) {
+  game_host(TextBookBreakout gameinfo, float _w01) {
 
     minim = new Minim(gameinfo);
     bgm_player      = minim.loadFile("./resources/TBFBGM.mp3");
@@ -174,7 +174,7 @@ class game_host {
     set_font(40);
     for(int i=1; i >= 0; i--){
       fill(220-i*120);
-      text("TextBookForce", game_x+game_w*0.5+i*2, 150+i*5);
+      text("TextBookBreakout", game_x+game_w*0.5+i*2, 150+i*5);
     }
 
   }

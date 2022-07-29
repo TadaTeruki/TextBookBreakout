@@ -78,7 +78,7 @@ class controller {
 
 
   // コンストラクタ
-  controller(TextBookForce gameinfo) {
+  controller(TextBookBreakout gameinfo) {
 
     String[] cameras_list = Capture.list();
 

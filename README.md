@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # 教科書Breakout
+=======
+# TextBookBreakout
+>>>>>>> rename
 
 制作 : 多田 瑛貴
 
@@ -40,7 +44,7 @@ Processing 3.5.4
 
 ### Processing(IDE)を使った実行
 
-1. ディレクトリ `TextBookForce` 内の `TextBookForce.pde` を開く
+1. ディレクトリ `TextBookBreakout` 内の `TextBookBreakout.pde` を開く
 2. 実行する
 
 ## 注意点
