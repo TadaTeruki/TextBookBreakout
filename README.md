@@ -1,7 +1,9 @@
 
-# TextBookForce
+# 教科書Breakout
 
 制作 : 多田 瑛貴
+
+<img src="https://user-images.githubusercontent.com/69315285/181797584-5ee26c4f-5110-453d-ae63-7e4d67915e36.png" height="300" />
 
 ## あらすじ
 <span style="line-height:1.5">
