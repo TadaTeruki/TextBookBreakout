@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-# 教科書Breakout
-=======
 # TextBookBreakout
->>>>>>> rename
 
 制作 : 多田 瑛貴
 
